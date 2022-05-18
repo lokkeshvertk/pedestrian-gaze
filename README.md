@@ -14,7 +14,7 @@ The code is written in Python. The system is tested with Python 3.6.9. To setup 
  
 # Analysis
 
-Code for analysis is written in Python. No additional packages are needed. To run, the analysis code, create a copy of the output from the terminal and run the file <>. This convers the terminal output into an .xls file which is used in data processing. Run the file <> to generate the accuracy and bounding box area plots as shown below. Visualizations are saved in the parent folder. 
+Code for analysis is written in Python. No additional packages are needed. To run, the analysis code, create a copy of the output from the terminal and run the file <>. This convers the terminal output into an .xls file which is used in data processing. Run the file `extract_terminal_data.py` to generate the accuracy and bounding box area plots as shown below. Visualizations are saved in the parent folder. 
 
 # Used Assets
 | Name | Developer | License
