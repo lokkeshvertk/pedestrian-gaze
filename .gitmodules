@@ -1,0 +1,6 @@
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/lokkeshvertk/darknet
+[submodule "monodepth2"]
+	path = monodepth2
+	url = https://github.com/lokkeshvertk/monodepth2
