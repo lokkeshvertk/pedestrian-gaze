@@ -4,7 +4,7 @@ This system alerts the pedestrian in real-time when they fail to notice an appro
 
 # Citation
 
-<add paper details>
+"add paper details"
 
 # Setup
 
