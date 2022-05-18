@@ -1,6 +1,6 @@
 # Gaze-based Pedestrian Warning System
 
-This system alerts the pedestrian in real-time when they fail to notice an approaching car in their way. It uses a head-mounted eye-tracker Tobii Pro Glasses 2 with a monocular scene camera and infrared (IR) eye cameras to stream video of the pedestrian’s point of view (POV) and their gaze point in 2D pixel coordinates relative to the video feed, respectively. Auditory warning is given to the pedestrian when they had not continuously looked at the approaching vehicle for at least 300 milliseconds. It is assumed that the repo is stored in the folder 'ped-gaze'. Terminal commands assume Ubuntu 18.04. 
+This system alerts the pedestrian in real-time when they fail to notice an approaching car in their way. It uses a head-mounted eye-tracker Tobii Pro Glasses 2 with a monocular scene camera and infrared (IR) eye cameras to stream video of the pedestrian’s point of view (POV) and their gaze point in 2D pixel coordinates relative to the video feed, respectively. Auditory warning is given to the pedestrian when they had not continuously looked at the approaching vehicle for at least 300 milliseconds. It is assumed that the repo is stored in the folder 'ped-gaze'. The system is initiated by `cd ~/ped-gaze && python3 gpws.py`. Terminal commands assume Ubuntu 18.04. 
 
 # Citation
 
