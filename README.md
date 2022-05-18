@@ -19,7 +19,7 @@ Code for analysis is written in Python. No additional packages are needed. To ru
 # Used Assets
 | Name | Developer | License
 | --- | --- | ---
-| [Yolov4] (https://github.com/AlexeyAB/darknet) | Bochkovskiy et al. (2020) | -
+|[Yolov4](https://github.com/AlexeyAB/darknet) | Bochkovskiy et al. (2020) | -
 |[Monodepth2](https://github.com/nianticlabs/monodepth2) | Godard et al.(2019) | Niantic, Inc.2019
 |[TobiiGlassesPyController](https://github.com/ddetommaso/TobiiGlassesPyController) | De Tommaso et al. (2019) | - 
 
