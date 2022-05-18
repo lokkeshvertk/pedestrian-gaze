@@ -9,8 +9,8 @@ This system alerts the pedestrian in real-time when they fail to notice an appro
 # Setup
 
 The code is written in Python. The system is tested with Python 3.6.9. To setup the environment run these two commands in a parent folder of the downloaded repository (replace `/` with `\` and possibly add `--user` if on Windows):
-- `pip install -e ped-gaze` will setup the project as a package accessible in the environment. 
-- `pip install -r ped-gaze/requirements.txt` will install the the required packages.
+- `pip install -e pedestrian-gaze` will setup the project as a package accessible in the environment. 
+- `pip install -r pedestrian-gaze/requirements.txt` will install the the required packages.
  
 # Analysis
 
