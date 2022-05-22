@@ -100,7 +100,7 @@ def get_gaze(ts_video, pts_data, gaze_data):
     gx = 0
     gy = 0
     gaze = [0,0]
-    if (diff < 0.05756):
+    if (abs(diff) < 0.05756):
         gaze = gaze_data[u'gp']
     return gaze
 
